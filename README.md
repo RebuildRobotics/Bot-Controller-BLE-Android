@@ -19,3 +19,5 @@ Features:
  - Battery voltage monitoring and low voltage alarm.
  - Optimized for 1920x1080px screen ratio, adaptable for smaller ones.
  - Available languages: English, Finnish.
+
+Controller is specially designed to be used together with our designed ESP32-C3 based combat bot scripts found also from our github pages. It can be used also with self made scripts and without having bot configurations made from settings.
