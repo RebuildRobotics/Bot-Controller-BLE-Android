@@ -1,7 +1,6 @@
 # Bot-Controller-BLE-Android
 
-Rebuild{Robotics}
-www.rebuildrobotics.fi
+Rebuild{Robotics} - www.rebuildrobotics.fi
 
 "All-In-One" bluetooth controller designed to control Arduino bots with Android smartphone/tablet.
 
